@@ -1,0 +1,6 @@
+Database Name-id16188049_nit
+Username-id16188049_lakshay
+Password-Database@123
+
+
+https://topping-sewers.000webhostapp.com/insert.php?field1=30&field2=50

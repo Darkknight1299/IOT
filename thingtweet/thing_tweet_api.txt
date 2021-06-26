@@ -1,0 +1,7 @@
+Its POST method
+
+
+
+https://api.thingspeak.com/apps/thingtweet/1/statuses/update
+      api_key=5JKMZRGPKNRGJ0Q7
+      status=I just posted this from my thing!
